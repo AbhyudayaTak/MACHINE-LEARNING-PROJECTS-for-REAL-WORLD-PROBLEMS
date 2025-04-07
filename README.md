@@ -75,7 +75,7 @@ This repository contains **supervised & unsupervised ML models** applied to real
 
 1️⃣ Clone this repo:  
 ```bash
- git clone https://github.com/your-username/Machine-Learning-Mastery.git 
+ git clone https://github.com/AbhyudayaTak/Machine-Learning-Mastery.git 
 ```
 2️⃣ Install dependencies:  
 ```bash
